@@ -1,2 +1,2 @@
 # BubbleSort
-Translating C++ Bubble Sort to Selection Sort in MIPS Assembly
+Translating C++ Bubble Sort to MIPS Assembly
